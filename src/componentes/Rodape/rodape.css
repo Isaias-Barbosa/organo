@@ -1,7 +1,7 @@
 .footer {
     background: #6278F7;
     color: #FFF;
-    padding: 80px;
+    padding: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,4 +14,16 @@
 
 .footer ul li:last-child {
     margin-right: 0;
+}
+
+.footer img {
+    max-width: 100%;
+   
+}
+
+
+.logo{
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
 }
